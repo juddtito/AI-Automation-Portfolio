@@ -26,7 +26,7 @@ Gmail
 - Reduces manual customer support work
 
 ## Screenshots
-(Add screenshots here)
+
 
 ## Demo Video
-(Add Loom video link here)
+https://www.loom.com/share/a889a2f3819a46a5b0843617c7f9be2c
